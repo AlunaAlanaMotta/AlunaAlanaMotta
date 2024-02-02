@@ -2,9 +2,11 @@
  
   <h1 align="center">Alana Motta</h1>
   <p align="center">
-  <img src="https://github.com/AlunaAlanaMotta/AlunaAlanaMotta/assets/107065094/0c955dbe-254a-4c26-880a-94f4de460b7d" width="350">
+  <img src="https://github.com/AlunaAlanaMotta/AlunaAlanaMotta/assets/107065094/10ffe0cb-8dc2-4271-a448-60f8b151e5d0" width="350">
 </p>
- 
+
+
+
 
 
   <p align="center"
