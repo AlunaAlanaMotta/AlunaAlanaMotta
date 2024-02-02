@@ -10,14 +10,13 @@
 
 
   <p align="center"
-    <a href="https://www.youtube.com/@alanamotta2249/videos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/AlunaAlanaMotta/AlunaAlanaMotta/assets/107065094/10ffe0cb-8dc2-4271-a448-60f8b151e5d0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/mottaalana0?igsh=MTZha2dmeGpoMHRqeQ==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mottaalana0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/alana-motta-da-cruz-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </p>
 </div>
 
-## Sobre mim!
+## Sobre mim! ☺️
 
 Olá, meu nome é Alana Motta, tenho 32 anos e sou residente em Curitiba, Paraná. Ao longo da minha carreira, tenho me destacado por minhas habilidades excepcionais de trabalho em equipe e comunicação eficaz. Sou uma profissional altamente motivada, sempre em busca de oportunidades para aprender e crescer constantemente.
 
@@ -32,11 +31,11 @@ Fora do ambiente de trabalho, tenho uma paixão por assistir séries e filmes, e
 
 ## Minha vida acadêmica:
 
-Sou estudande de Gestão de Tecnologia da Informação pela PUCPR!
+	📚 Sou estudande de Gestão de Tecnologia da Informação pela PUCPR!
 
-Me formarei em 2024!
+	📅 Me formarei em 2024!
 
-Sou Co-Fundadora do Clube Universitário IT-GIRLS
+ 💄 Sou Co-Fundadora do Clube Universitário IT-GIRLS
 
 
 
@@ -62,7 +61,7 @@ Sou monitora e atuei/atuo nas disciplinas de:
 
 <br></br>
 
-Estou ansiosa para continuar crescendo profissionalmente e contribuir positivamente em qualquer desafio que a vida profissional me reserve.❤
+Estou ansiosa para continuar crescendo profissionalmente e contribuir positivamente em qualquer desafio que a vida profissional me reserve.❤🚀
 <br></br>
 
 
