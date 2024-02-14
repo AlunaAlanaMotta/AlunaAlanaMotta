@@ -31,11 +31,11 @@ Fora do ambiente de trabalho, tenho uma paixão por assistir séries e filmes, e
 
 ## Minha vida acadêmica:
 
-	📚 Sou estudande de Gestão de Tecnologia da Informação pela PUCPR!
+📚 Sou estudande de Gestão de Tecnologia da Informação pela PUCPR!
 
-	📅 Me formarei em 2024!
+📅 Me formarei em 2024!
 
- 💄 Sou Co-Fundadora do Clube Universitário IT-GIRLS
+💄 Sou Co-Fundadora do Clube Universitário IT-GIRLS
 
 
 
