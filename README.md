@@ -43,7 +43,7 @@ Sou monitora e atuei/atuo nas disciplinas de:
 - Matemática Aplicada à Computação
 - Big Data
 - Desenvolvimento Web
-- Raciocício computacional
+- Raciocínio computacional
 - Banco de dados
 
 
