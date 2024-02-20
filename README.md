@@ -35,9 +35,10 @@ Fora do ambiente de trabalho, tenho uma paixão por assistir séries e filmes, e
 
 📅 Me formarei em 2024!
 
-💄 Sou Co-Fundadora do Clube Universitário IT-GIRLS
-
-
+💄 Sou Co-Fundadora do Clube Universitário IT-GIRLS 
+<br>
+<br>
+<a href="https://discord.gg/YbbCayxV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 Sou monitora e atuei/atuo nas disciplinas de:
 - Matemática Aplicada à Computação
@@ -59,7 +60,7 @@ Sou monitora e atuei/atuo nas disciplinas de:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "python"/></code>
 
-<br></br>
+<br>
 
 Estou ansiosa para continuar crescendo profissionalmente e contribuir positivamente em qualquer desafio que a vida profissional me reserve.❤🚀
 <br></br>
