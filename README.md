@@ -18,7 +18,7 @@
 
 ## Sobre mim! ☺️
 
-Olá, meu nome é Alana Motta, tenho 32 anos e sou residente em Curitiba, Paraná. Ao longo da minha carreira, tenho me destacado por minhas habilidades excepcionais de trabalho em equipe e comunicação eficaz. Sou uma profissional altamente motivada, sempre em busca de oportunidades para aprender e crescer constantemente.
+Olá, meu nome é Alana Motta, tenho 32 anos e sou residente em Curitiba, Paraná. Ao longo da minha carreira, tenho me destacado por minhas habilidades de trabalho em equipe e comunicação eficaz. Sou uma profissional altamente motivada, sempre em busca de oportunidades para aprender e crescer constantemente.
 
  Meu comprometimento com a aquisição de novos conhecimentos demonstra minha dedicação ao desenvolvimento profissional.
 
