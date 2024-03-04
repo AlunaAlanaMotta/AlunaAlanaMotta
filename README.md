@@ -33,7 +33,7 @@ Fora do ambiente de trabalho, tenho uma paixão por assistir séries e filmes, e
 
 📚 Sou estudande de Gestão de Tecnologia da Informação pela PUCPR!
 
-📅 Me formarei em 2024!
+📅 Previsão de conclusão em Julho/2024!
 
 💄 Sou Co-Fundadora do Clube Universitário IT-GIRLS 
 <br>
