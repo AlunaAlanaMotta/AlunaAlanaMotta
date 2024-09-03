@@ -31,16 +31,14 @@ Fora do ambiente de trabalho, tenho uma paixão por assistir séries e filmes, e
 
 ## Minha vida acadêmica:
 
-📚 Sou estudande de Gestão de Tecnologia da Informação pela PUCPR!
-
-📅 Previsão de conclusão em Julho/2024!
+📚 Sou formada em Gestão de Tecnologia da Informação pela PUCPR!
 
 💄 Sou Co-Fundadora do Clube Universitário IT-GIRLS 
 <br>
 <br>
 <a href="https://discord.gg/YbbCayxV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-Sou monitora e atuei/atuo nas disciplinas de:
+Como monitora atuei nas disciplinas de:
 - Matemática Aplicada à Computação
 - Big Data
 - Desenvolvimento Web
