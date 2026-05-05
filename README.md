@@ -18,16 +18,32 @@
 
 ## Sobre mim! ☺️
 
-Olá, meu nome é Alana Motta, tenho 33 anos e sou residente em Curitiba, Paraná. Ao longo da minha carreira, tenho me destacado por minhas habilidades de trabalho em equipe e comunicação eficaz. Sou uma profissional altamente motivada, sempre em busca de oportunidades para aprender e crescer constantemente.
+Desenvolvedora Front-End focada na criação de interfaces modernas, responsivas e orientadas à experiência do usuário.
 
- Meu comprometimento com a aquisição de novos conhecimentos demonstra minha dedicação ao desenvolvimento profissional.
+Atualmente desenvolvo aplicações utilizando HTML, CSS, JavaScript, React e Next.js, com foco em performance, usabilidade e boas práticas de desenvolvimento.
 
-Fora do ambiente de trabalho, tenho uma paixão por assistir séries e filmes, explorar novos destinos através de viagens, dedicar-me ao crochê e me aventurar na decoração. Esses hobbies não apenas proporcionam equilíbrio à minha vida, mas também refletem minha criatividade e interesse em diferentes formas de expressão.
+Sou formada em Gestão da Tecnologia da Informação pela Pontifícia Universidade Católica do Paraná e estou em transição de carreira para a área de desenvolvimento.
+
+Minha experiência anterior com atendimento ao cliente fortaleceu habilidades como comunicação, empatia e entendimento de necessidades — o que hoje me permite transformar problemas reais em soluções digitais eficientes.
 
 
 <p align="center">
   
 </p>
+
+💼 ## Projetos em destaque
+
+🔹 VITZ Monitoramento
+Site institucional com foco em UI moderna, responsividade e conversão
+👉 https://vitzmonitoramento.vercel.app/
+
+🔹 Pokédex Interativa
+Consumo de API REST com interface dinâmica
+👉 https://desafio-dio-poke-api.vercel.app/
+
+🔹 AluraFlix (CRUD)
+Aplicação com gerenciamento de conteúdo
+👉 https://alura-flix-swart-nine.vercel.app/
 
 ## Minha vida acadêmica:
 
@@ -60,7 +76,17 @@ Como monitora atuei nas disciplinas de:
 
 <br>
 
-Estou ansiosa para continuar crescendo profissionalmente e contribuir positivamente em qualquer desafio que a vida profissional me reserve.❤🚀
+🌱 Atualmente estudando
+Next.js avançado
+Performance e otimização
+Boas práticas de UI/UX
+
+📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/alana-motta-da-cruz-dev/
+📧 Email: mottaalana0@gmail.com
+
+✨ Sempre em busca de evoluir, aprender e construir soluções que gerem impacto real.
 <br></br>
 
 
