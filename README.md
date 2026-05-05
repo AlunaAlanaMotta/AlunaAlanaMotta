@@ -67,9 +67,9 @@ Como monitora atuei nas disciplinas de:
 - Raciocínio computacional
 - Banco de dados
 
+---
 
-
-### 🖥️ Tecnologias e Ferramentas
+## 🖥️ Tecnologias e Ferramentas
 
 ---
 
@@ -89,10 +89,10 @@ Como monitora atuei nas disciplinas de:
 ### 🗄️ Back-End / Dados
 
 <p align="center">
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
 </p>
-
 ---
 
 ### ⚙️ Ferramentas
