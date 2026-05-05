@@ -31,19 +31,27 @@ Minha experiência anterior com atendimento ao cliente fortaleceu habilidades co
   
 </p>
 
-💼 ## Projetos em destaque
+---
 
-🔹 VITZ Monitoramento
-Site institucional com foco em UI moderna, responsividade e conversão
-👉 https://vitzmonitoramento.vercel.app/
+## 💼 Projetos em destaque
 
-🔹 Pokédex Interativa
-Consumo de API REST com interface dinâmica
-👉 https://desafio-dio-poke-api.vercel.app/
+### 🔹 VITZ Monitoramento
+Site institucional com foco em UI moderna, responsividade e conversão  
+🔗 https://vitzmonitoramento.vercel.app/  
 
-🔹 AluraFlix (CRUD)
-Aplicação com gerenciamento de conteúdo
-👉 https://alura-flix-swart-nine.vercel.app/
+---
+
+### 🔹 Pokédex Interativa
+Aplicação com consumo de API REST e interface dinâmica  
+🔗 https://desafio-dio-poke-api.vercel.app/  
+
+---
+
+### 🔹 AluraFlix (CRUD)
+Aplicação com gerenciamento de conteúdo  
+🔗 https://alura-flix-swart-nine.vercel.app/  
+
+---
 
 ## Minha vida acadêmica:
 
@@ -76,18 +84,35 @@ Como monitora atuei nas disciplinas de:
 
 <br>
 
-🌱 Atualmente estudando
-Next.js avançado
-Performance e otimização
-Boas práticas de UI/UX
+## 📊 GitHub Stats
 
-📫 Contato
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlunaAlanaMotta&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlunaAlanaMotta&layout=compact&theme=radical"/>
+</p>
 
-💼 LinkedIn: https://www.linkedin.com/in/alana-motta-da-cruz-dev/
-📧 Email: mottaalana0@gmail.com
+---
 
-✨ Sempre em busca de evoluir, aprender e construir soluções que gerem impacto real.
-<br></br>
+## 🌱 Atualmente estudando
+
+- Next.js avançado  
+- Performance e otimização  
+- Boas práticas de UI/UX  
+
+---
+
+## 📫 Contato
+
+<p>
+  💼 <a href="https://www.linkedin.com/in/alana-motta-da-cruz-dev/">LinkedIn</a><br/>
+  📧 seuemail@email.com
+</p>
+
+---
+
+<p align="center">
+✨ Sempre em evolução, construindo soluções e transformando ideias em experiências digitais.
+</p>
 
 
 <!--
