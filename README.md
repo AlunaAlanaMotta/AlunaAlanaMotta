@@ -71,7 +71,7 @@ Como monitora atuei nas disciplinas de:
 
 ## 🖥️ Tecnologias e Ferramentas
 
----
+
 
 ### 🎨 Front-End
 
@@ -93,7 +93,7 @@ Como monitora atuei nas disciplinas de:
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
 </p>
----
+
 
 ### ⚙️ Ferramentas
 
