@@ -84,13 +84,6 @@ Como monitora atuei nas disciplinas de:
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlunaAlanaMotta&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlunaAlanaMotta&layout=compact&theme=radical"/>
-</p>
-
 ---
 
 ## 🌱 Atualmente estudando
@@ -105,7 +98,7 @@ Como monitora atuei nas disciplinas de:
 
 <p>
   💼 <a href="https://www.linkedin.com/in/alana-motta-da-cruz-dev/">LinkedIn</a><br/>
-  📧 seuemail@email.com
+  📧 mottaalana0@gmail.com
 </p>
 
 ---
